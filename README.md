@@ -481,3 +481,9 @@ Maps old-style (pre-2007) Project Gutenberg filenames to the new-style
 ebook IDs. For example, "/etext95/3boat10.zip" is mapped to the
 number 308 (see http://www.gutenberg.org/ebooks/308). Pretty much
 nobody needs this.
+## Coverage report: 42% 
+
+|    **File**    | **Statements** | **Missing** | **Excluded** | **Coverage** |
+| :------------: | :------------: | :---------: | :----------: | :----------: |
+| test_python.py |       12       |      7      |       0      |      42%     |
+|      Total     |       12       |      7      |       0      |      42%     |
